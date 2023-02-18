@@ -1,2 +1,2 @@
 # ATIVIDADE-MAXMIN
-Lenguage PORT/BR: C#
+Lenguage: C#
